@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jadhav-vijay
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python programming language.
+- 💞️ I’m looking to collaborate on python flask.
+- 📫 How to reach me @vijayjjadhav93@gmail.com
 
 <!---
 Jadhav-vijay/Jadhav-vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
